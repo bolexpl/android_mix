@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/nav_main" />
+        <item
+            android:id="@+id/nav_rotate"
+            android:icon="@drawable/language_css3"
+            android:title="@string/nav_rotate" />
+        <item
+            android:id="@+id/nav_converter"
+            android:icon="@drawable/language_html5"
+            android:title="@string/nav_converter" />
+        <item
+            android:id="@+id/nav_async"
+            android:icon="@drawable/motorbike"
+            android:title="@string/nav_async" />
+        <item
+            android:id="@+id/nav_rest"
+            android:icon="@drawable/database"
+            android:title="@string/nav_rest" />
+        <item
+            android:id="@+id/nav_sqlite"
+            android:icon="@drawable/database"
+            android:title="@string/nav_sqlite" />
+        <item
+            android:id="@+id/nav_files"
+            android:icon="@drawable/language_c"
+            android:title="@string/nav_files" />
+        <item
+            android:id="@+id/nav_bluetooth"
+            android:icon="@drawable/bluetooth"
+            android:title="@string/nav_bluetooth" />
+        <item
+            android:id="@+id/nav_service"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/nav_service" />
+
+    </group>
+
+</menu>

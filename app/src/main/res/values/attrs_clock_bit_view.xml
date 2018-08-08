@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="ClockBitView">
+        <attr name="state" format="integer"/>
+    </declare-styleable>
+</resources>

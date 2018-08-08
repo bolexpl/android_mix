@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/widget_background"
+    tools:context="com.example.bolek.testy.activities.TestActivity">
+
+    <com.example.bolek.testy.ClockBitView
+        android:id="@+id/bit1"
+        android:layout_marginTop="200dp"
+        android:layout_marginStart="150dp"
+        android:layout_width="40dp"
+        android:layout_height="10dp"
+        android:paddingBottom="40dp"
+        android:paddingStart="20dp"
+        android:paddingEnd="0dp"
+        app:state="@integer/inactive"/>
+    <com.example.bolek.testy.ClockBitView
+        android:id="@+id/bit2"
+        android:layout_marginTop="220dp"
+        android:layout_marginStart="150dp"
+        android:layout_width="40dp"
+        android:layout_height="10dp"
+        android:paddingBottom="40dp"
+        android:paddingStart="20dp"
+        android:paddingEnd="0dp"
+        app:state="@integer/blue"/>
+    <com.example.bolek.testy.ClockBitView
+        android:id="@+id/bit3"
+        android:layout_marginTop="240dp"
+        android:layout_marginStart="150dp"
+        android:layout_width="40dp"
+        android:layout_height="10dp"
+        android:paddingBottom="40dp"
+        android:paddingStart="20dp"
+        android:paddingEnd="0dp"
+        app:state="@integer/red"/>
+    <com.example.bolek.testy.ClockBitView
+        android:id="@+id/bit4"
+        android:layout_marginTop="260dp"
+        android:layout_marginStart="150dp"
+        android:layout_width="40dp"
+        android:layout_height="10dp"
+        android:paddingBottom="40dp"
+        android:paddingStart="20dp"
+        android:paddingEnd="0dp"
+        app:state="@integer/red_blue"/>
+
+</RelativeLayout>

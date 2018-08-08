@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Moje testy</string>
+    <string name="music_activity">Odtwarzacz muzyki</string>
+
+    <string name="navigation_drawer_open">Otwórz nawigację</string>
+    <string name="navigation_drawer_close">Zamknij nawigację</string>
+    <string name="main_site">
+        Do nauczenia:\n
+        - ustawienia\n
+        - TabLayout\n
+        - GPS\n
+        - OpenStreetMaps\n
+        - sprawdzenie dostępnych czujników\n
+        - czujnik orientacji\n
+        - czujnik zbliżeniowy\n
+        - wysyłane SMS\n
+        - odbieranie SMS\n
+        - używanie aparatu\n
+        - odtwarzanie video\n
+        - nagrywanie wideo\n
+        - podstawowa grafika 2d\n
+
+        \n
+        Gotowe:\n
+        - style\n
+        - odtwarzanie dźwięku\n
+        - RecyclerView\n
+        - reakcje na zdarzenia\n
+        - SwipeRefreshLayout\n
+        - BlueTooth\n
+        - RetroFit\n
+        - AsyncTask\n
+        - zawartość katalogu i właściwości pliku\n
+        - SQLite\n
+        - ilość wolnego miejsca na karcie
+    </string>
+    <string name="action_toast">Toast</string>
+    <string name="action_snackbar">SnackBar</string>
+    <string name="action_test">Test</string>
+    <string name="joke">Żartowałem</string>
+    <string name="working">Pracuję</string>
+    <string name="not_working">Już nie</string>
+    <string name="thread">Wątek</string>
+    <string name="convert">Konwertuj</string>
+
+    <string name="nav_main">Główna</string>
+    <string name="nav_rotate">Rotacja</string>
+    <string name="nav_async">AsyncTask</string>
+    <string name="nav_rest">RetroFit</string>
+    <string name="nav_sqlite">SQLite</string>
+    <string name="nav_recycler">RecyclerView</string>
+    <string name="nav_converter">Konverter systemów liczbowych</string>
+    <string name="nav_files">Lista plików</string>
+    <string name="nav_bluetooth">Bluetooth</string>
+    <string name="nav_service">Serwisy</string>
+
+    <!--<string name="appwidget_text">Przykładowy widget</string>-->
+    <!--<string name="add_widget">Dodaj widget</string>-->
+
+</resources>

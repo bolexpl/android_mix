@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#747474</color>
+    <color name="black">#000000</color>
+    <color name="fontLight">#ffffff</color>
+    <color name="fontDark">#000000</color>
+    <color name="transparent">#df1f242d</color>
+    <color name="blue">#0000ff</color>
+
+    <!--widget-->
+    <color name="widget_background">#000000</color>
+    <color name="widget_inactive">#303030</color>
+    <color name="red">#ff0000</color>
+</resources>
